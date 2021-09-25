@@ -1,0 +1,42 @@
+[
+  {
+    "border": "white",
+    "fill": "blue"
+  },
+  {
+    "border": "white",
+    "fill": "black"
+  },
+  {
+    "border": "white",
+    "fill": "LightPink"
+  },
+  {
+    "border": "white",
+    "fill": "Crimson"
+  },
+  {
+    "border": "white",
+    "fill": "OrangeRed"
+  },
+  {
+    "border": "white",
+    "fill": "DodgerBlue"
+  },
+  {
+    "border": "white",
+    "fill": "DarkSlateGray"
+  },
+  {
+    "border": "white",
+    "fill": "Yellow"
+  },
+  {
+    "border": "white",
+    "fill": "MidnightBlue"
+  },
+   {
+    "border": "white",
+    "fill": "Olive"
+  }
+]

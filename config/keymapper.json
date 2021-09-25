@@ -1,0 +1,9 @@
+ {
+    "w": "move_up",
+    "s": "move_down",
+    "a": "move_left",
+    "d": "move_right",
+    "j": "rotate",
+    "space": "move_down_fast"
+ }
+
